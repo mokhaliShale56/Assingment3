@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="enter_firstname">Enter FirstName:</string>
+    <string name="enter_lastname">Enter LastName:</string>
+    <string name="enter_gender">Enter Gender:</string>
+    <string name="enter_date">Enter Date:</string>
+    <string name="enter_age">Enter Age:</string>
+</resources>
